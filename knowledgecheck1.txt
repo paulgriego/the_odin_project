@@ -22,3 +22,7 @@ Which element is used to display an image? <img src = "">
 What two attributes do images always need to have? A src attribute linking to the image and a alt attribute used to describe the image if the image can't be loaded or someone who is visually impaired using a screen reader can know what the image is. 
 How do you access a parent directory in a filepath? ../
 What are the four main image formats that you can use for images on the web? jpeg, png, gif ,svg 
+
+What are two benefits of having well-written commit messages and a good commit history? A good well written commit message and keeping good commit history will make it easier to debug code, remember what exactly has been done to the code and make it easier for employees to read your code.
+
+How many characters should the subject line of your commit message be? 50 characters

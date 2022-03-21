@@ -12,3 +12,13 @@ Knowledge Check 2
 What HTML tag is used to create an unordered list? <ul></ul>
 What HTML tag is used to create an ordered list?	<ol></ol>
 What HTML tag is used to create list items within both unordered and ordered lists?<li></li>
+
+Knowledge Check 3
+What element is used to create a link? <a></a>
+What is an attribute? An attribute tells a HTML element more information.
+What attribute tells links where to go to? Href
+What is the difference between an absolute and relative link? A absolute link to pages on another website while a relative link links to pages on its own website
+Which element is used to display an image? <img src = "">
+What two attributes do images always need to have? A src attribute linking to the image and a alt attribute used to describe the image if the image can't be loaded or someone who is visually impaired using a screen reader can know what the image is. 
+How do you access a parent directory in a filepath? ../
+What are the four main image formats that you can use for images on the web? jpeg, png, gif ,svg 
